@@ -1,0 +1,66 @@
+<student>
+<Name>John Doe</Name>
+<Major>Forensic Science</Major>
+<Class Rank>162</Class Rank>
+<grades> 87.6 95.1 87.2 71.1 82.1 </grades>
+</student>
+<student>
+<Name>Jane Doe</Name>
+<Major>Criminal Justice</Major>
+<Class Rank>282</Class Rank>
+<grades> 96.1 86.2 76.1 82.1 91.2 </grades>
+</student>
+<student>
+<Name>Mathew Fitzpatrick</Name>
+<Major>Digital Arts</Major>
+<Class Rank>178</Class Rank>
+<grades> 85.2 77.1 85.1 93.2 80.4 </grades>
+</student>
+<student>
+<Name>Sean Rosetta</Name>
+<Major>Linguistics</Major>
+<Class Rank>191</Class Rank>
+<grades> 74.1 88.1 94.2 84.4 79.8 </grades>
+</student>
+<student>
+<Name>Carlotta Hernandez</Name>
+<Major>Electrical Engineering</Major>
+<Class Rank>384</Class Rank>
+<grades> 83.1 99.2 83.4 75.8 88.1 </grades>
+</student>
+<student>
+<Name>James Rogen</Name>
+<Major>Chemical Engineering</Major>
+<Class Rank>319</Class Rank>
+<grades> 92.2 80.4 72.8 86.1 97.3 </grades>
+</student>
+<student>
+<Name>Seth Franco</Name>
+<Major>Pre-Med</Major>
+<Class Rank>101</Class Rank>
+<grades> 81.4 71.8 81.1 97.3 86.6 </grades>
+</student>
+<student>
+<Name>Clark Kent</Name>
+<Major>Investigative Journalism</Major>
+<Class Rank>728</Class Rank>
+<grades> 70.8 82.1 90.3 88.6 75.1 </grades>
+</student>
+<student>
+<Name>Amanda Waller</Name>
+<Major>Political Science</Major>
+<Class Rank>645</Class Rank>
+<grades> 89.1 93.3 89.6 79.1 84.2 </grades>
+</student>
+<student>
+<Name>Reilly Curran</Name>
+<Major>Software Engineering</Major>
+<Class Rank>264</Class Rank>
+<grades> 98.3 84.6 78.1 80.2 93.1 </grades>
+</student>
+<student>
+<Name>a a</Name>
+<Major>a</Major>
+<Class Rank>88</Class Rank>
+<grades> 99 99 98 78 88 </grades>
+</student>
